@@ -8,7 +8,7 @@ We compare Rlad with seven deep-learning based algorithms across two common anom
 ## Publication
 The 7th SIGKDD Workshop on Mining and Learning from Time Series
 
-[Rlad: Time Series Anomaly Detection through Reinforcement Learning and Active Learning]([https://www.researchgate.net/profile/Nikolas-Martelaro/publication/354602472_Learning_When_Agents_Can_Talk_to_Drivers_Using_the_INAGT_Dataset_and_Multisensor_Fusion/links/6178b51eeef53e51e1f0cf5b/Learning-When-Agents-Can-Talk-to-Drivers-Using-the-INAGT-Dataset-and-Multisensor-Fusion.pdf](https://arxiv.org/pdf/2104.00543.pdf)https://arxiv.org/pdf/2104.00543.pdf)
+[Rlad: Time Series Anomaly Detection through Reinforcement Learning and Active Learning](https://arxiv.org/pdf/2104.00543.pdf)
 
 ## Recommended Citation
 
